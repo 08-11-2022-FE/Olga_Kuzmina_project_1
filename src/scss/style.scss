@@ -765,6 +765,8 @@ main {
     }
     .pink-screen {
         padding: 50px 30px;
+        margin: 0 -15px;
+        border-radius: 0;
         &__img {
             max-width: 100%;
         }
@@ -791,6 +793,8 @@ main {
     }
     .testimonials {
         padding: 50px 15px;
+        margin: 0 -15px;
+        border-radius: 0;
         &__item {
             padding: 30px;
             flex-direction: column;
